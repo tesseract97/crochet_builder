@@ -1,0 +1,1 @@
+#converting pixel RGB values to colors
